@@ -25,7 +25,7 @@ namespace Laboratory5__1
 
         public void Display()
         {
-            Console.WriteLine(answer);
+            Console.WriteLine($"Корень выражения: {answer}");
         }
 
         public void Function()
